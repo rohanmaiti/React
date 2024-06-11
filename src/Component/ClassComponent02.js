@@ -1,3 +1,4 @@
+// not a proper example of this show down below 
 import React,{Component} from 'react';
 class ClassComponent extends Component{
     render(){

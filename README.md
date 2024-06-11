@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 # this is my 3rd sem codes
+# after writing # if you write any thing it become bold 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
